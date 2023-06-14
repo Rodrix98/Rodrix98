@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there I'm Rodrigo Garcia 👋</h1>
+
+
+
 
 <!--
 **Rodrix98/Rodrix98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
