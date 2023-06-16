@@ -25,7 +25,7 @@
 
 - 🤝 I’m open to work <!--  ADD CV   -->
 
-- ⚡ in the future I would like to be a game developer.
+- ⚡ In the future I would like to be a game developer.
 
 <br/>
 <br/>
