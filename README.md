@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Garcia</h1>
 
 <!--  BANNER   -->
+<img src="https://github.com/Rodrix98/Rodrix98/blob/main/Banner.png">
 
+<!--  Sub-Text Banner   -->
+<br/>
 <h3 align="center">A passionate self-taught Full Stack Developer who likes to learn new technologies and improve the ones I already know.</h3>
 
-<br/><br/>
+<!--  Image   -->
 <img width="350" height="300" align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk1NjJmYjMyMmIzMzg5MzY3YzI5NzQ4ZWZhNDgwZDgyYmRjZTUxNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<br/>
 
+<!--  Badges   -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rodrix98&label=Profile%20views&color=0e75b6&style=flat" alt="rodrix98" /> 
   <img src="https://img.shields.io/github/followers/Rodrix98?style=social"/>
 </p> 
-
-<br/>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -22,14 +23,15 @@
 
 - 📫 How to reach me **rodriwheels41@gmail.com**
 
-<!--  ADD CV   -->
+- 🤝 I’m open to work <!--  ADD CV   -->
+
+- ⚡ in the future I would like to be a game developer.
 
 <br/>
 <br/>
-<br/>
 
 
-<h3 align="center">Connect with me:</h3>
+## <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rodrigogg98/" target="blank"><img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="https://www.linkedin.com/in/rodrigogg98/" height="50" width="50" /></a>
 </p>
